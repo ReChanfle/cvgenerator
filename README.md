@@ -1,3 +1,3 @@
 # cvgenerator 0.0.1
 First Proyect Argentina Programa. 
-put files together in a folder, and open index.html with any browser.
+Put files together in a folder, and open index.html with any browser.
